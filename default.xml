@@ -405,7 +405,7 @@ this avoid merging conflicts from AOKP manifest
   <project path="device/semc/mango" name="CyanogenMod/android_device_semc_mango" remote="fxp" revision="jellybean" />
   <project path="device/semc/smultron" name="CyanogenMod/android_device_semc_smultron" remote="fxp" revision="jellybean" />
   <project path="device/semc/satsuma" name="CyanogenMod/android_device_semc_satsuma" remote="fxp" revision="jellybean" />
-  <project path="device/semc/mogami-common" name="android_device_semc_mogami-common" remote="kxp" revision="jellybean" />
+  <project path="device/semc/mogami-common" name="android_device_semc_mogami-common" remote="kxp" revision="jb" />
   <project path="device/semc/zeus" name="CyanogenMod/android_device_semc_zeus" remote="fxp" revision="jellybean" />
   <project path="device/semc/zeusc" name="CyanogenMod/android_device_semc_zeusc" remote="fxp" revision="jellybean" />
   <project path="device/semc/zeus-common" name="CyanogenMod/android_device_semc_zeus-common" remote="fxp" revision="jellybean" />
