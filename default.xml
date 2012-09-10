@@ -412,7 +412,7 @@ this avoid merging conflicts from AOKP manifest
   <project path="device/semc/msm7x30-common" name="android_device_semc_msm7x30-common" remote="kxp" revision="jb" />
   <project path="device/sony/nozomi" name="CyanogenMod/android_device_sony_nozomi" remote="fxp" revision="jellybean" />
   <project path="device/sony/hikari" name="CyanogenMod/android_device_sony_hikari" remote="fxp" revision="jellybean" />
-  <project path="device/sony/fuji-common" name="CyanogenMod/android_device_sony_fuji-common" remote="fxp" revision="jellybean" />
+  <project path="device/sony/fuji-common" name="android_device_sony_fuji-common" remote="kxp" revision="jb" />
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x30" name="CyanogenMod/semc-kernel-msm7x30" remote="fxp" revision="jellybean" />
