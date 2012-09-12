@@ -415,8 +415,8 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/sony/fuji-common" name="android_device_sony_fuji-common" remote="kxp" revision="jb" />
 
 <!--Device kernels -->
-  <project path="kernel/semc/msm7x30" name="CyanogenMod/semc-kernel-msm7x30" remote="fxp" revision="jellybean" />
-  <project path="kernel/sony/msm8660" name="CyanogenMod/sony-kernel-msm8660" remote="fxp" revision="android-msm-3.0-jb" />
+  <project path="kernel/semc/msm7x30" name="android_kernel_semc_msm7x30" remote="kxp" revision="jellybean" />
+  <project path="kernel/sony/msm8660" name="android_kernel_sony_msm8260" remote="kxp" revision="android-msm-3.0-jb" />
 
 <!-- Vendors -->
   <project path="vendor/aokp" name="vendor_aokp" remote="kxp" revision="jb" />
