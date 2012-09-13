@@ -416,7 +416,7 @@ this avoids merging conflicts from AOKP manifest
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x30" name="android_kernel_semc_msm7x30" remote="kxp" revision="jb" />
-  <project path="kernel/sony/msm8660" name="android_kernel_sony_msm8260" remote="kxp" revision="jb" />
+  <project path="kernel/sony/msm8660" name="android_kernel_sony_msm8660" remote="kxp" revision="jb" />
 
 <!-- Vendors -->
   <project path="vendor/aokp" name="vendor_aokp" remote="kxp" revision="jb" />
