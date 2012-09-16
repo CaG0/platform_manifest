@@ -424,7 +424,7 @@ this avoids merging conflicts from AOKP manifest
 <!-- Vendors -->
   <project path="vendor/aokp" name="KangXperiaProject/vendor_aokp" remote="kxp" revision="jb" />
   <project path="vendor/kxp" name="KangXperiaProject/vendor_kxp" remote="kxp" revision="jb" />
-  <project path="vendor/semc" name="KangXperiaProject/proprietary_vendor_semc" remote="kxp" revision="jb" />
+  <project path="vendor/semc" name="TheMuppets/proprietary_vendor_semc" remote="fxp" revision="jellybean" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="fxp" revision="jellybean" />
   <project path="vendor/ti/fmradio" name="pikpok/vendor_ti_fmradio" remote="gh" revision="jellybean" />
 
