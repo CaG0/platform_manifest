@@ -18,7 +18,7 @@
   <remote name="kxp"
            fetch="https://github.com/"
            revision="jb"
-           review="smartdev.com.pl" />
+           review="smartdev.com.pl:8080" />
 
   <remote name="fxp"
            fetch="https://github.com/"
