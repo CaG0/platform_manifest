@@ -428,8 +428,6 @@ this avoids merging conflicts from AOKP manifest
   <project path="vendor/kxp" name="KangXperiaProject/vendor_kxp" remote="kxp" revision="jb" />
   <project path="vendor/semc" name="TheMuppets/proprietary_vendor_semc" remote="fxp" revision="jellybean" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="fxp" revision="jellybean" />
-  <project path="vendor/ti/fmradio" name="pikpok/vendor_ti_fmradio" remote="gh" revision="jellybean" />
-
 <!-- Unofficial packages that we like adding to our ROM ;) -->
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="cm" revision="jellybean" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="cm" revision="jellybean" />
@@ -453,5 +451,8 @@ this avoids merging conflicts from AOKP manifest
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" remote="fxp" revision="jellybean"/>
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="fxp" revision="jellybean"/>
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="fxp" revision="jellybean"/>
+<!-- Our FM Radio fork -->
+  <project path="hardware/ti/fmradio" name="pikpok/vendor_ti_fmradio" remote="gh" revision="jellybean" />
+
 
 </manifest>
