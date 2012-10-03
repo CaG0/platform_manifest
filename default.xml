@@ -417,11 +417,15 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/semc/msm7x30-common" name="KangXperiaProject/android_device_semc_msm7x30-common" remote="kxp" revision="jb" />
   <project path="device/sony/nozomi" name="CyanogenMod/android_device_sony_nozomi" remote="fxp" revision="jellybean" />
   <project path="device/sony/hikari" name="CyanogenMod/android_device_sony_hikari" remote="fxp" revision="jellybean" />
+  <project path="device/sony/aoba" name="CyanogenMod/android_device_sony_aoba" remote="fxp" revision="jellybean" />
   <project path="device/sony/fuji-common" name="KangXperiaProject/android_device_sony_fuji-common" remote="kxp" revision="jb" />
+  <project path="device/sony/mint" name="CyanogenMod/android_device_sony_mint" remote="fxp" revision="jellybean" />
+  <project path="device/sony/blue-common" name="CyanogenMod/android_device_sony_blue-common" remote="fxp" revision="jellybean" />
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x30" name="KangXperiaProject/android_kernel_semc_msm7x30" remote="kxp" revision="jb" />
   <project path="kernel/sony/msm8660" name="KangXperiaProject/android_kernel_sony_msm8660" remote="kxp" revision="jb" />
+  <project path="kernel/sony/msm8960" name="CyanogenMod/sony-kernel-msm8960" remote="fxp" revision="jellybean" />
 
 <!-- Vendors -->
   <project path="vendor/aokp" name="KangXperiaProject/vendor_aokp" remote="kxp" revision="jb" />
