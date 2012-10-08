@@ -450,13 +450,12 @@ this avoids merging conflicts from AOKP manifest
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="fxp" revision="jellybean"/>
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="fxp" revision="jellybean"/>
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="fxp" revision="jellybean"/>
-  <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="fxp" revision="jellybean"/>
+  <project path="hardware/somc/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="fxp" revision="jellybean"/>
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" remote="fxp" revision="jellybean"/>
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" remote="fxp" revision="jellybean"/>
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="fxp" revision="jellybean"/>
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="fxp" revision="jellybean"/>
-<!-- Our FM Radio fork -->
-  <project path="hardware/ti/fmradio" name="pikpok/vendor_ti_fmradio" remote="gh" revision="jellybean" />
+  <project path="hardware/ti/fmradio" name="CyanogenMod/android_hardware_ti_fmradio" remote="fxp" revision="jellybean" />
 
 
 </manifest>
