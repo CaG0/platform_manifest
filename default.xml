@@ -19,7 +19,7 @@
            
   <remote  name="kxp"
            fetch="git@github.com:KangXperiaProject/"
-           revision="ics"
+           revision="ics" />
 
   <default remote="aosp"
            revision="ics"
