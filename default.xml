@@ -227,22 +227,22 @@
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" remote="fxp" />
-  <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" remote="fxp" />
-  <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="fxp" />
-  <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" remote="fxp" />
+  <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" remote="fxp" revision="ics" />
+  <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" remote="fxp" revision="ics" />
+  <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="fxp" revision="ics" />
+  <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" remote="fxp" revision="ics" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="fxp" />
-  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="fxp" />
-  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="fxp" />
-  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="fxp" />
-  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="fxp" />
-  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="fxp" />
-  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="fxp" />
-  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="fxp" />
-  <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" remote="fxp" />
+  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="fxp" revision="ics" />
+  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="fxp" revision="ics" />
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="fxp" revision="ics" />
+  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="fxp" revision="ics" />
+  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="fxp" revision="ics" />
+  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="fxp" revision="ics" />
+  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="fxp" revision="ics" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="fxp" revision="ics" />
+  <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" remote="fxp" revision="ics" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="fxp" />
+  <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="fxp" revision="ics" />
   <project path="libcore" name="AOKP/libcore" remote="gh" revision="ics" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
