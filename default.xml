@@ -18,6 +18,7 @@
            revision="ics" />
 
   <default remote="aosp"
+           revision="ics"
            sync-j="4" />
 
   <project path="build" name="AOKP/android_build" revision="ics" remote="gh">
