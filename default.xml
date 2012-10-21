@@ -41,6 +41,19 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"  />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
+
+  <project path="device/sony/nypon" name="android_device_sony_nypon" remote="cm" revision="ics" />
+  <project path="device/sony/lotus" name="android_device_sony_nypon" remote="cm" revision="ics" />
+  <project path="device/sony/sola" name="android_device_sony_nypon" remote="cm" revision="ics" />
+  <project path="device/sony/pepper" name="android_device_sony_nypon" remote="cm" revision="ics" />
+  <project path="device/sony/montblanc-common" name="android_device_sony_montblanc-common" remote="cm" revision="ics" />
+  <project path="device/sony/nozomi" name="android_device_sony_nozomi" remote="cm" revision="ics" />
+  <project path="device/sony/aoba" name="android_device_sony_aoba" remote="cm" revision="ics" />
+  <project path="device/sony/hikari" name="android_device_sony_hikari" remote="cm" revision="ics" />
+  <project path="device/sony/fuji-common" name="android_device_sony_fuji-common" remote="cm" revision="ics" />
+  
+
+
 <!--
   <project path="device/acer/picasso" name="AOKP/android_device_acer_picasso" remote="gh" revision="ics" />
   <project path="device/acer/t20-common" name="AOKP/android_device_acer_t20-common" remote="gh" revision="ics" />
@@ -313,7 +326,7 @@
   <project path="system/netd" name="platform/system/netd" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="ics" />
 
-  <project path="vendor/aokp" name="AOKP/vendor_aokp_ics" remote="gh" revision="ics" />
+  <project path="vendor/aokp" name="vendor_aokp" remote="kxp" revision="ics" />
 <!--
   <project path="vendor/samsung" name="AOKP/vendor_samsung" remote="gh" revision="ics" />
   <project path="vendor/moto" name="AOKP/vendor_moto" remote="gh" revision="ics" />
