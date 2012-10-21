@@ -43,9 +43,9 @@
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
 
   <project path="device/sony/nypon" name="android_device_sony_nypon" remote="cm" revision="ics" />
-  <project path="device/sony/lotus" name="android_device_sony_nypon" remote="cm" revision="ics" />
-  <project path="device/sony/sola" name="android_device_sony_nypon" remote="cm" revision="ics" />
-  <project path="device/sony/pepper" name="android_device_sony_nypon" remote="cm" revision="ics" />
+  <project path="device/sony/lotus" name="android_device_sony_lotus" remote="cm" revision="ics" />
+  <project path="device/sony/sola" name="android_device_sony_sola" remote="cm" revision="ics" />
+  <project path="device/sony/pepper" name="android_device_sony_pepper" remote="cm" revision="ics" />
   <project path="device/sony/montblanc-common" name="android_device_sony_montblanc-common" remote="cm" revision="ics" />
   <project path="device/sony/nozomi" name="android_device_sony_nozomi" remote="cm" revision="ics" />
   <project path="device/sony/aoba" name="android_device_sony_aoba" remote="cm" revision="ics" />
