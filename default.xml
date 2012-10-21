@@ -18,7 +18,7 @@
            revision="ics" />
            
   <remote  name="kxp"
-           fetch="ssh://git@github.com:KangXperiaProject/"
+           fetch="https://github.com/KangXperiaProject/"
            revision="ics" />
 
   <default remote="aosp"
