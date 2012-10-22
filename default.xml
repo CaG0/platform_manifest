@@ -328,6 +328,12 @@
 
   <project path="vendor/aokp" name="vendor_aokp" remote="kxp" revision="ics" />
   <project path="vendor/kxp" name="vendor_kxp" remote="kxp" revision="ics" />
+  <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="gh" revision="ics" />
+
+  <project path="kernel/sony/msm8660" name="sony-kernel-msm8660" remote="cm" revision="android-msm-3.0" />
+  <project path="kernel/sony/u8500" name="sony-kernel-u8500" remote="cm" revision="ics" />
+
+
 
 <!--
   <project path="vendor/samsung" name="AOKP/vendor_samsung" remote="gh" revision="ics" />
