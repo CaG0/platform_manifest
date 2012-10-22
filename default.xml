@@ -15,6 +15,7 @@
 
   <remote  name="fxp"
            fetch="https://github.com/"
+           review="review.cyanogenmod.com"
            revision="ics" />
            
   <remote  name="kxp"
