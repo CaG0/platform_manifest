@@ -420,6 +420,7 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/sony/aoba" name="CyanogenMod/android_device_sony_aoba" remote="fxp" revision="jellybean" />
   <project path="device/sony/fuji-common" name="KangXperiaProject/android_device_sony_fuji-common" remote="kxp" revision="jb" />
   <project path="device/sony/mint" name="CyanogenMod/android_device_sony_mint" remote="fxp" revision="jellybean" />
+  <project path="device/sony/hayabusa" name="Kali-/android_device_sony_hayabusa" remote="fxp" revision="jellybean" />
   <project path="device/sony/blue-common" name="KangXperiaProject/android_device_sony_blue-common" remote="kxp" revision="jb" />
 
 <!--Device kernels -->
