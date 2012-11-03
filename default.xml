@@ -288,7 +288,7 @@
   <project path="packages/apps/Email" name="platform/packages/apps/Email" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Exchange" name="AOKP/packages_apps_Exchange" remote="aokp" revision="jb" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="packages/apps/Gallery2" name="AOKP/packages_apps_Gallery2" remote="aokp" revision="jb" />
+<!--  <project path="packages/apps/Gallery2" name="AOKP/packages_apps_Gallery2" remote="aokp" revision="jb" /> -->
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -439,6 +439,7 @@ this avoids merging conflicts from AOKP manifest
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" remote="cm" revision="jellybean" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="jellybean" />
   <project path="packages/apps/LegacyCamera" name="KangXperiaProject/packages_apps_LegacyCamera" remote="kxp" revision="jb" />
+  <project path="packages/apps/Gallery2" name="KangXperiaProject/packages_apps_Gallery2" remote="kxp" revision="jb" />
 
 
 <!--frameworks -->
