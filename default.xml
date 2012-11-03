@@ -43,6 +43,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"  />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
 
+  <project path="device/semc/es209ra" name="scritchz/android_device_semc_es209ra" remote="gh" revision="ics" />
   <project path="device/sony/nypon" name="CyanogenMod/android_device_sony_nypon" remote="fxp" revision="ics" />
   <project path="device/sony/lotus" name="CyanogenMod/android_device_sony_lotus" remote="fxp" revision="ics" />
   <project path="device/sony/kumquat" name="CyanogenMod/android_device_sony_kumquat" remote="fxp" revision="ics" />
@@ -330,6 +331,8 @@
   <project path="vendor/aokp" name="vendor_aokp" remote="kxp" revision="ics" />
   <project path="vendor/kxp" name="vendor_kxp" remote="kxp" revision="ics" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="gh" revision="ics" />
+  <project path="vendor/semc" name="TheMuppets/proprietary_vendor_semc" remote="gh" revision="ics" />
+
 
   <project path="kernel/sony/msm8660" name="sony-kernel-msm8660" remote="cm" revision="android-msm-3.0" />
   <project path="kernel/sony/u8500" name="sony-kernel-u8500" remote="cm" revision="ics" />
