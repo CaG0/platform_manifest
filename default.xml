@@ -48,11 +48,11 @@
   <project path="device/sony/lotus" name="CyanogenMod/android_device_sony_lotus" remote="fxp" revision="ics" />
   <project path="device/sony/kumquat" name="CyanogenMod/android_device_sony_kumquat" remote="fxp" revision="ics" />
   <project path="device/sony/pepper" name="CyanogenMod/android_device_sony_pepper" remote="fxp" revision="ics" />
-  <project path="device/sony/montblanc-common" name="CyanogenMod/android_device_sony_montblanc-common" remote="fxp" revision="ics" />
+  <project path="device/sony/montblanc-common" name="android_device_sony_montblanc-common" remote="kxp" revision="ics" />
   <project path="device/sony/nozomi" name="CyanogenMod/android_device_sony_nozomi" remote="fxp" revision="ics" />
   <project path="device/sony/aoba" name="CyanogenMod/android_device_sony_aoba" remote="fxp" revision="ics" />
   <project path="device/sony/hikari" name="CyanogenMod/android_device_sony_hikari" remote="fxp" revision="ics" />
-  <project path="device/sony/fuji-common" name="CyanogenMod/android_device_sony_fuji-common" remote="fxp" revision="ics" />
+  <project path="device/sony/fuji-common" name="android_device_sony_fuji-common" remote="kxp" revision="ics" />
   
 
 
@@ -234,7 +234,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/yaffs2" name="AOKP/external_yaffs2" remote="gh" revision="ics" />
   <project path="external/zlib" name="AOKP/external_zlib" remote="gh" revision="ics" />
-  <project path="frameworks/base" name="AOKP/frameworks_base_disabled" remote="gh" revision="ics" />
+  <project path="frameworks/base" name="frameworks_base" remote="kxp" revision="ics" />
   <project path="frameworks/compile/libbcc" name="AOKP/android_frameworks_compile_libbcc" remote="gh" revision="ics" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" remote="gh" revision="ics" />
