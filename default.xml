@@ -438,7 +438,7 @@ this avoids merging conflicts from AOKP manifest
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="cm" revision="jellybean" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" remote="cm" revision="jellybean" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="jellybean" />
-  <project path="packages/apps/LegacyCamera" name="KangXperiaProject/packages_apps_LegacyCamera" remote="kxp" revision="jb" />
+  <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" remote="cm" revision="jellybean" />
   <project path="packages/apps/Gallery2" name="KangXperiaProject/packages_apps_Gallery2" remote="kxp" revision="jb" />
 
 
