@@ -402,15 +402,15 @@ this avoids merging conflicts from AOKP manifest
   <project path="manifest/kxp" name="KangXperiaProject/platform_manifest" remote="kxp" revision="jb" />
 
 <!-- Devices and commons used by KXP -->
-  <project path="device/semc/anzu" name="CyanogenMod/android_device_semc_anzu" remote="fxp" revision="jellybean" />
-  <project path="device/semc/urushi" name="CyanogenMod/android_device_semc_urushi" remote="fxp" revision="jellybean" />
-  <project path="device/semc/iyokan" name="CyanogenMod/android_device_semc_iyokan" remote="fxp" revision="jellybean" />
-  <project path="device/semc/haida" name="CyanogenMod/android_device_semc_haida" remote="fxp" revision="jellybean" />
-  <project path="device/semc/hallon" name="CyanogenMod/android_device_semc_hallon" remote="fxp" revision="jellybean" />
-  <project path="device/semc/coconut" name="CyanogenMod/android_device_semc_coconut" remote="fxp" revision="jellybean" />
-  <project path="device/semc/mango" name="CyanogenMod/android_device_semc_mango" remote="fxp" revision="jellybean" />
-  <project path="device/semc/smultron" name="CyanogenMod/android_device_semc_smultron" remote="fxp" revision="jellybean" />
-  <project path="device/semc/satsuma" name="CyanogenMod/android_device_semc_satsuma" remote="fxp" revision="jellybean" />
+  <project path="device/semc/anzu" name="KangXperiaProject/android_device_semc_anzu" remote="kxp" revision="jellybean" />
+  <project path="device/semc/urushi" name="KangXperiaProject/android_device_semc_urushi" remote="kxp" revision="jellybean" />
+  <project path="device/semc/iyokan" name="KangXperiaProject/android_device_semc_iyokan" remote="kxp" revision="jellybean" />
+  <project path="device/semc/haida" name="KangXperiaProject/android_device_semc_haida" remote="kxp" revision="jellybean" />
+  <project path="device/semc/hallon" name="KangXperiaProject/android_device_semc_hallon" remote="kxp" revision="jellybean" />
+  <project path="device/semc/coconut" name="KangXperiaProject/android_device_semc_coconut" remote="kxp" revision="jellybean" />
+  <project path="device/semc/mango" name="KangXperiaProject/android_device_semc_mango" remote="kxp" revision="jellybean" />
+  <project path="device/semc/smultron" name="KangXperiaProject/android_device_semc_smultron" remote="kxp" revision="jellybean" />
+  <project path="device/semc/satsuma" name="KangXperiaProject/android_device_semc_satsuma" remote="kxp" revision="jellybean" />
   <project path="device/semc/mogami-common" name="KangXperiaProject/android_device_semc_mogami-common" remote="kxp" revision="jb" />
   <project path="device/semc/zeus" name="CyanogenMod/android_device_semc_zeus" remote="fxp" revision="jellybean" />
   <project path="device/semc/zeusc" name="CyanogenMod/android_device_semc_zeusc" remote="fxp" revision="jellybean" />
