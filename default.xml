@@ -93,7 +93,7 @@
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="cm" revision="jellybean" />
   <project path="external/bison" name="platform/external/bison" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="external/bluetooth/bluez" name="AOKP/external_bluetooth_bluez" remote="aokp" revision="jb" />
+<!--  <project path="external/bluetooth/bluez" name="AOKP/external_bluetooth_bluez" remote="aokp" revision="jb" /> -->
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -101,7 +101,7 @@
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="cm" revision="jellybean" />
   <project path="external/bzip2" name="platform/external/bzip2" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="external/chromium" name="AOKP/external_chromium" remote="aokp" revision="jb" />
+<!--  <project path="external/chromium" name="AOKP/external_chromium" remote="aokp" revision="jb" /> -->
   <project path="external/chromium-trace" name="platform/external/chromium-trace" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/cibu-fonts" name="platform/external/cibu-fonts" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/clang" name="platform/external/clang" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -109,7 +109,7 @@
   <project path="external/dbus" name="platform/external/dbus" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/dexmaker" name="platform/external/dexmaker" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="external/dnsmasq" name="AOKP/external_dnsmasq" remote="aokp" revision="jb" />
+<!--  <project path="external/dnsmasq" name="AOKP/external_dnsmasq" remote="aokp" revision="jb" /> -->
   <project path="external/doclava" name="platform/external/doclava" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/dropbear" name="platform/external/dropbear" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -224,7 +224,7 @@
   <project path="external/tremolo" name="platform/external/tremolo" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/v8" name="platform/external/v8" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/valgrind" name="platform/external/valgrind" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="external/webkit" name="AOKP/external_webkit" remote="aokp" revision="jb" />
+<!--  <project path="external/webkit" name="AOKP/external_webkit" remote="aokp" revision="jb" /> -->
   <project path="external/webp" name="platform/external/webp" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -441,6 +441,11 @@ this avoids merging conflicts from AOKP manifest
   <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" remote="cm" revision="jellybean" />
   <project path="packages/apps/Gallery2" name="KangXperiaProject/packages_apps_Gallery2" remote="kxp" revision="jb" />
 
+<!-- external taken from CM10 -->
+  <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="cm" revision="jellybean" />
+  <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" remote="cm" revision="jellybean" />
+  <project path="external/chromium" name="CyanogenMod/android_external_chromium" remote="cm" revision="jellybean" />
+  <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" remote="cm" revision="jellybean" />
 
 <!--frameworks -->
   <project path="frameworks/base" name="KangXperiaProject/frameworks_base" remote="kxp" revision="jb" />
