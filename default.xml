@@ -470,6 +470,7 @@ this avoids merging conflicts from AOKP manifest
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="fxp" revision="jellybean"/>
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="fxp" revision="jellybean"/>
   <project path="hardware/ti/fmradio" name="CyanogenMod/android_hardware_ti_fmradio" remote="fxp" revision="jellybean" />
+  <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" remote="cm" revision="jellybean" />
 
 
 </manifest>
