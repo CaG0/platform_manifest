@@ -412,9 +412,9 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/semc/smultron" name="KangXperiaProject/android_device_semc_smultron" remote="kxp" revision="jb" />
   <project path="device/semc/satsuma" name="KangXperiaProject/android_device_semc_satsuma" remote="kxp" revision="jb" />
   <project path="device/semc/mogami-common" name="KangXperiaProject/android_device_semc_mogami-common" remote="kxp" revision="jb" />
-  <project path="device/semc/zeus" name="KangXperiaProject/android_device_semc_zeus" remote="kxp" revision="jellybean" />
-  <project path="device/semc/zeusc" name="KangXperiaProject/android_device_semc_zeusc" remote="kxp" revision="jellybean" />
-  <project path="device/semc/zeus-common" name="KangXperiaProject/android_device_semc_zeus-common" remote="kxp" revision="jellybean" />
+  <project path="device/semc/zeus" name="KangXperiaProject/android_device_semc_zeus" remote="kxp" revision="jb" />
+  <project path="device/semc/zeusc" name="KangXperiaProject/android_device_semc_zeusc" remote="kxp" revision="jb" />
+  <project path="device/semc/zeus-common" name="KangXperiaProject/android_device_semc_zeus-common" remote="kxp" revision="jb" />
   <project path="device/semc/msm7x30-common" name="KangXperiaProject/android_device_semc_msm7x30-common" remote="kxp" revision="jb" />
   <project path="device/sony/nozomi" name="CyanogenMod/android_device_sony_nozomi" remote="fxp" revision="jellybean" />
   <project path="device/sony/hikari" name="CyanogenMod/android_device_sony_hikari" remote="fxp" revision="jellybean" />
