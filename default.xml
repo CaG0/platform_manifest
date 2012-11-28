@@ -46,7 +46,7 @@
   <project path="device/semc/es209ra" name="skritchz/android_device_semc_es209ra" remote="gh" revision="ics" />
   <project path="device/sony/nypon" name="CyanogenMod/android_device_sony_nypon" remote="fxp" revision="ics" />
   <project path="device/sony/lotus" name="CyanogenMod/android_device_sony_lotus" remote="fxp" revision="ics" />
-  <project path="device/sony/kumquat" name="CyanogenMod/android_device_sony_kumquat" remote="fxp" revision="ics" />
+  <project path="device/sony/kumquat" name="android_device_sony_kumquat" remote="kxp" revision="ics" />
   <project path="device/sony/pepper" name="CyanogenMod/android_device_sony_pepper" remote="fxp" revision="ics" />
   <project path="device/sony/montblanc-common" name="android_device_sony_montblanc-common" remote="kxp" revision="ics" />
   <project path="device/sony/nozomi" name="CyanogenMod/android_device_sony_nozomi" remote="fxp" revision="ics" />
