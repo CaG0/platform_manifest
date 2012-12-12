@@ -421,7 +421,8 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/sony/aoba" name="KangXperiaProject/android_device_sony_aoba" remote="kxp" revision="jb" />
   <project path="device/sony/fuji-common" name="KangXperiaProject/android_device_sony_fuji-common" remote="kxp" revision="jb" />
   <project path="device/sony/mint" name="KangXperiaProject/android_device_sony_mint" remote="kxp" revision="jb" />
-  <project path="device/sony/hayabusa" name="Kali-/android_device_sony_hayabusa" remote="fxp" revision="jellybean" />
+  <project path="device/sony/hayabusa" name="KangXperiaProject/android_device_sony_hayabusa" remote="kxp" revision="jb" />
+  <project path="device/sony/tsubasa" name="KangXperiaProject/android_device_sony_tsubasa" remote="kxp" revision="jb" />
   <project path="device/sony/blue-common" name="KangXperiaProject/android_device_sony_blue-common" remote="kxp" revision="jb" />
 
 <!--Device kernels -->
