@@ -428,7 +428,7 @@ this avoids merging conflicts from AOKP manifest
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x30" name="KangXperiaProject/android_kernel_semc_msm7x30" remote="kxp" revision="jb" />
-  <project path="kernel/sony/msm8x60" name="CyanogenMod/android_kernel_sony_msm8x60" remote="fxp" revision="jellybean" />
+  <project path="kernel/sony/msm8x60" name="KangXperiaProject/android_kernel_sony_msm8x60" remote="kxp" revision="jellybean" />
   <project path="kernel/semc/qsd8k" name="KangXperiaProject/android_kernel_semc_qsd8k" remote="kxp" revision="jellybean" />
 
 <!-- Vendors -->
