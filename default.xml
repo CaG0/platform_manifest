@@ -424,15 +424,18 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/sony/hayabusa" name="KangXperiaProject/android_device_sony_hayabusa" remote="kxp" revision="jb" />
   <project path="device/sony/tsubasa" name="KangXperiaProject/android_device_sony_tsubasa" remote="kxp" revision="jb" />
   <project path="device/sony/blue-common" name="KangXperiaProject/android_device_sony_blue-common" remote="kxp" revision="jb" />
+  <project path="device/semc/es209ra" name="KangXperiaProject/android_device_semc_es209ra" remote="kxp" revision="jellybean" />
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x30" name="KangXperiaProject/android_kernel_semc_msm7x30" remote="kxp" revision="jb" />
   <project path="kernel/sony/msm8x60" name="CyanogenMod/android_kernel_sony_msm8x60" remote="fxp" revision="jellybean" />
+  <project path="kernel/semc/qsd8k" name="KangXperiaProject/android_kernel_semc_qsd8k" remote="kxp" revision="jellybean" />
 
 <!-- Vendors -->
   <project path="vendor/aokp" name="KangXperiaProject/vendor_aokp" remote="kxp" revision="jb" />
   <project path="vendor/kxp" name="KangXperiaProject/vendor_kxp" remote="kxp" revision="jb" />
   <project path="vendor/semc" name="TheMuppets/proprietary_vendor_semc" remote="fxp" revision="jellybean" />
+  <project path="vendor/semc/es209ra" name="CMX10/proprietary_es209ra" remote="gh" revision="jellybean" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="fxp" revision="jellybean" />
 <!-- Unofficial packages that we like adding to our ROM ;) -->
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="cm" revision="jellybean" />
