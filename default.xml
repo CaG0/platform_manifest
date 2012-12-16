@@ -424,12 +424,12 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/sony/hayabusa" name="KangXperiaProject/android_device_sony_hayabusa" remote="kxp" revision="jb" />
   <project path="device/sony/tsubasa" name="KangXperiaProject/android_device_sony_tsubasa" remote="kxp" revision="jb" />
   <project path="device/sony/blue-common" name="KangXperiaProject/android_device_sony_blue-common" remote="kxp" revision="jb" />
-  <project path="device/semc/es209ra" name="KangXperiaProject/android_device_semc_es209ra" remote="kxp" revision="jellybean" />
+  <project path="device/semc/es209ra" name="KangXperiaProject/android_device_semc_es209ra" remote="kxp" revision="jb" />
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x30" name="KangXperiaProject/android_kernel_semc_msm7x30" remote="kxp" revision="jb" />
   <project path="kernel/sony/msm8x60" name="KangXperiaProject/android_kernel_sony_msm8x60" remote="kxp" revision="jellybean" />
-  <project path="kernel/semc/qsd8k" name="KangXperiaProject/android_kernel_semc_qsd8k" remote="kxp" revision="jellybean" />
+  <project path="kernel/semc/qsd8k" name="KangXperiaProject/android_kernel_semc_qsd8k" remote="kxp" revision="jb" />
 
 <!-- Vendors -->
   <project path="vendor/aokp" name="KangXperiaProject/vendor_aokp" remote="kxp" revision="jb" />
