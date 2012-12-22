@@ -446,8 +446,8 @@ this avoids merging conflicts from AOKP manifest
   <project path="packages/apps/Gallery2" name="KangXperiaProject/packages_apps_Gallery2" remote="kxp" revision="jb" />
 
 <!-- external taken from CM10 -->
-  <project path="external/bluetooth/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" remote="cm" revision="jellybean" />
-  <project path="external/bluetooth/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="cm" revision="jellybean" />
+  <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" remote="cm" revision="jellybean" />
+  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="cm" revision="jellybean" />
 
 <!--frameworks -->
   <project path="frameworks/base" name="KangXperiaProject/frameworks_base" remote="kxp" revision="jb" />
