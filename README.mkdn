@@ -12,4 +12,9 @@ Then to sync up:
 
     repo sync
 
+Then
+
+    . build/envsetup.sh;
+    lunch
+    mka otapackage
 
