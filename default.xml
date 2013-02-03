@@ -428,6 +428,7 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/sony/mesona" name="KangXperiaProject/android_device_sony_mesona" remote="kxp" revision="jellybean" />
   <project path="device/sony/tapioca" name="KangXperiaProject/android_device_sony_tapioca" remote="kxp" revision="jellybean" />
   <project path="device/sony/jlo" name="KangXperiaProject/android_device_sony_jlo" remote="kxp" revision="jellybean" />
+  <project path="device/sony/tamsui-common" name="KangXperiaProject/android_device_sony_tamsui-common" remote="kxp" revision="jellybean" />
 
 <!--Device kernels -->
   <project path="kernel/semc/msm7x30" name="KangXperiaProject/android_kernel_semc_msm7x30" remote="kxp" revision="jb" />
