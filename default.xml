@@ -47,7 +47,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
 <!--
-  <project path="device/asus/grouper" name="AOKP/android_device_asus_grouper" remote="aokp" revision="jb" />
+  <project path="device/asus/grouper" name="AOKP/device_asus_grouper" remote="aokp" revision="jb" />
   <project path="device/moto/common" name="device/moto/common" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="device/moto/stingray" name="device/moto/stingray" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="device/moto/wingray" name="device/moto/wingray" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -56,28 +56,28 @@
   <project path="device/samsung/captivatemtd" name="AOKP/device_samsung_captivatemtd" remote="aokp" revision="jb" />
   <project path="device/samsung/crespo" name="AOKP/device_samsung_crespo" remote="aokp" revision="jb" />
   <project path="device/samsung/crespo4g" name="AOKP/device_samsung_crespo4g" remote="aokp" revision="jb" />
-  <project path="device/samsung/d2-common" name="AOKP/android_device_samsung_d2-common" remote="aokp" revision="jb" />
-  <project path="device/samsung/d2tmo" name="AOKP/android_device_samsung_d2tmo" remote="aokp" revision="jb" />
+  <project path="device/samsung/d2-common" name="AOKP/device_samsung_d2-common" remote="aokp" revision="jb" />
+  <project path="device/samsung/d2tmo" name="AOKP/device_samsung_d2tmo" remote="aokp" revision="jb" />
   <project path="device/samsung/fascinatemtd" name="AOKP/device_samsung_fascinatemtd" remote="aokp" revision="jb" />
   <project path="device/samsung/galaxysmtd" name="AOKP/device_samsung_galaxysmtd" remote="aokp" revision="jb" />
-  <project path="device/samsung/galaxys2-common" name="AOKP/android_device_samsung_galaxys2-common" remote="aokp" revision="jb" />
+  <project path="device/samsung/galaxys2-common" name="AOKP/device_samsung_galaxys2-common" remote="aokp" revision="jb" />
   <project path="device/samsung/i9100" name="AOKP/device_samsung_i9100" remote="aokp" revision="jb" />
   <project path="device/samsung/i9100g" name="AOKP/device_samsung_i9100g" remote="aokp" revision="jb" />
   <project path="device/samsung/d2vzw" name="AOKP/device_samsung_d2vzw" remote="aokp" revision="jb" />
   <project path="device/samsung/hercules" name="AOKP/device_samsung_hercules" remote="aokp" revision="jb" />
-  <project path="device/samsung/n7000" name="AOKP/android_device_samsung_n7000" remote="aokp" revision="jb" />
+  <project path="device/samsung/n7000" name="AOKP/device_samsung_n7000" remote="aokp" revision="jb" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="aokp" revision="jb" />
-  <project path="device/samsung/msm8660-common" name="AOKP/android_device_samsung_msm8660-common" remote="aokp" revision="jb" />
-  <project path="device/samsung/msm8960-common" name="AOKP/android_device_samsung_msm8960-common" remote="aokp" revision="jb" />
+  <project path="device/samsung/msm8660-common" name="AOKP/device_samsung_msm8660-common" remote="aokp" revision="jb" />
+  <project path="device/samsung/msm8960-common" name="AOKP/device_samsung_msm8960-common" remote="aokp" revision="jb" />
   <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="aokp" revision="jb" />
-  <project path="device/samsung/toroplus" name="AOKP/android_device_samsung_toroplus" remote="aokp" revision="jb" />
+  <project path="device/samsung/toroplus" name="AOKP/device_samsung_toroplus" remote="aokp" revision="jb" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="aokp" revision="jb" />
-  <project path="device/samsung/p5100" name="AOKP/android_device_samsung_p5100" remote="aokp" revision="jb" />
-  <project path="device/samsung/p5110" name="AOKP/android_device_samsung_p5110" remote="aokp" revision="jb" />
-  <project path="device/samsung/p5113" name="AOKP/android_device_samsung_p5113" remote="aokp" revision="jb" />
-  <project path="device/samsung/p3100" name="AOKP/android_device_samsung_p3100" remote="aokp" revision="jb" />
-  <project path="device/samsung/p3110" name="AOKP/android_device_samsung_p3110" remote="aokp" revision="jb" />
-  <project path="device/samsung/p3113" name="AOKP/android_device_samsung_p3113" remote="aokp" revision="jb" />
+  <project path="device/samsung/p5100" name="AOKP/device_samsung_p5100" remote="aokp" revision="jb" />
+  <project path="device/samsung/p5110" name="AOKP/device_samsung_p5110" remote="aokp" revision="jb" />
+  <project path="device/samsung/p5113" name="AOKP/device_samsung_p5113" remote="aokp" revision="jb" />
+  <project path="device/samsung/p3100" name="AOKP/device_samsung_p3100" remote="aokp" revision="jb" />
+  <project path="device/samsung/p3110" name="AOKP/device_samsung_p3110" remote="aokp" revision="jb" />
+  <project path="device/samsung/p3113" name="AOKP/device_samsung_p3113" remote="aokp" revision="jb" />
   <project path="device/samsung/vibrantmtd" name="AOKP/device_samsung_vibrantmtd" remote="aokp" revision="jb" />
 -->
 
@@ -198,7 +198,7 @@
   <project path="external/ppp" name="platform/external/ppp" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/proguard" name="platform/external/proguard" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="external/qemu" name="AOKP/android_external_qemu" remote="aokp" revision="jb" />
+  <project path="external/qemu" name="AOKP/external_qemu" remote="aokp" revision="jb" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" remote="cm" revision="jellybean" />
   <project path="external/quake" name="platform/external/quake" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -228,7 +228,7 @@
   <project path="external/webp" name="platform/external/webp" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
 <!--  <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="external/wpa_supplicant_8" name="AOKP/android_external_wpa_supplicant_8" remote="aokp" revision="jb" /> -->
+  <project path="external/wpa_supplicant_8" name="AOKP/external_wpa_supplicant_8" remote="aokp" revision="jb" /> -->
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="cm" revision="jellybean" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="cm" revision="jellybean" />
@@ -256,7 +256,7 @@
 
 
 <!--
-  <project path="hardware/broadcom/wlan" name="AOKP/android_hardware_broadcom_wlan" remote="aokp" revision="jb" />
+  <project path="hardware/broadcom/wlan" name="AOKP/hardware_broadcom_wlan" remote="aokp" revision="jb" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="cm" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="cm" revision="jellybean" />
@@ -265,7 +265,7 @@
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="jellybean" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="cm" revision="jellybean" />
-  <project path="hardware/ril" name="AOKP/android_hardware_ril" remote="aokp" revision="jb" />
+  <project path="hardware/ril" name="AOKP/hardware_ril" remote="aokp" revision="jb" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="cm" revision="jellybean" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -356,7 +356,7 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="sdk" name="AOKP/android_sdk" remote="aokp" revision="jb" />
+  <project path="sdk" name="AOKP/sdk" remote="aokp" revision="jb" />
   <project path="system/bluetooth" name="AOKP/system_bluetooth" remote="aokp" revision="jb" />
   <project path="system/core" name="KangXperiaProject/system_core" remote="kxp" revision="jb" />
   <project path="system/extras" name="AOKP/system_extras" remote="aokp" revision="jb" />
