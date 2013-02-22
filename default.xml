@@ -8,6 +8,10 @@
   <remote  name="aokp"
            fetch="https://github.com/"
            review="gerrit.sudoservers.com" />
+           
+  <remote  name="kxp"
+           fetch="https://github.com/"
+           review="http://smartdev.com.pl:8080" />
 
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
@@ -412,5 +416,6 @@
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
-  <project path="platform_manifest" name="AOKP/platform_manifest" remote="aokp" revision="jb-mr1" />
+  <project path="manifest/aokp" name="AOKP/platform_manifest" remote="aokp" revision="jb-mr1" />
+  <project path="manifest/kxp" name="KangXperiaProject/platform_manifest" remote="kxp" revision="jb-mr1" />
 </manifest>
