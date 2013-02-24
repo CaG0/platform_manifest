@@ -240,7 +240,7 @@
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="cm" revision="cm-10.1" />
-  <project path="external/wpa_supplicant_8_ti" name="platform/external/wpa_supplicant_8_ti" remote="omapzoom" revision="p-jb-mr1-release" />
+  <project path="external/wpa_supplicant_8_ti" name="android_external_wpa_supplicant_8_ti" remote="cm" revision="cm-10.1" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
@@ -417,5 +417,28 @@
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
   <project path="manifest/aokp" name="AOKP/platform_manifest" remote="aokp" revision="jb-mr1" />
+
+
+<!--
+===================================================================================================================================
+KANG XPERIA PROJECT
+===================================================================================================================================
+-->
+
+<!-- devices -->
+  <project path="device/sony/yuga" name="KangXperiaProject/android_device_sony_yuga" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/odin" name="KangXperiaProject/android_device_sony_odin" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/fusion3-common" name="KangXperiaProject/android_device_sony_fusion3-common" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/mint" name="KangXperiaProject/android_device_sony_mint" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/hayabusa" name="KangXperiaProject/android_device_sony_hayabusa" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/tsubasa" name="KangXperiaProject/android_device_sony_tsubasa" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/blue-common" name="KangXperiaProject/android_device_sony_blue-common" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/aoba" name="KangXperiaProject/android_device_sony_aoba" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/nozomi" name="KangXperiaProject/android_device_sony_nozomi" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/hikari" name="KangXperiaProject/android_device_sony_hikari" remote="kxp" revision="jb-mr1" />
+  <project path="device/sony/fuji-common" name="KangXperiaProject/android_device_sony_fuji-common" remote="kxp" revision="jb-mr1" />
+
+
+
   <project path="manifest/kxp" name="KangXperiaProject/platform_manifest" remote="kxp" revision="jb-mr1" />
 </manifest>
