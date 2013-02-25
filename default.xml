@@ -438,6 +438,13 @@ KANG XPERIA PROJECT
   <project path="device/sony/hikari" name="KangXperiaProject/android_device_sony_hikari" remote="kxp" revision="jb-mr1" />
   <project path="device/sony/fuji-common" name="KangXperiaProject/android_device_sony_fuji-common" remote="kxp" revision="jb-mr1" />
 
+<!-- kernels -->
+  <project path="kernel/sony/apq8064" name="KangXperiaProject/android_kernel_sony_apq8064" remote="kxp" revision="jb-mr1" />
+  <project path="kernel/sony/msm8x60" name="KangXperiaProject/android_kernel_sony_msm8x60" remote="kxp" revision="jb-mr1" />
+
+<!-- vendor -->
+  <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="kxp" revision="cm-10.1" />
+
 
 
   <project path="manifest/kxp" name="KangXperiaProject/platform_manifest" remote="kxp" revision="jb-mr1" />
