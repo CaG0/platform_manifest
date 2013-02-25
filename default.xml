@@ -11,7 +11,7 @@
            
   <remote  name="kxp"
            fetch="https://github.com/"
-           review="http://smartdev.com.pl:8080" />
+           review="smartdev.com.pl:8080" />
 
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
