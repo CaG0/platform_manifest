@@ -444,6 +444,7 @@ KANG XPERIA PROJECT
 
 <!-- vendor -->
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="kxp" revision="cm-10.1" />
+  <project path="vendor/kxp" name="KangXperiProject/vendor_kxp" remote="kxp" revision="jb-mr1" />
 
 
 
