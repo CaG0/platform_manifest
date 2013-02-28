@@ -25,7 +25,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="AOKP/build" remote="aokp" revision="jb-mr1" >
+  <project path="build" name="KangXperiaProject/android_build" remote="kxp" revision="jb-mr1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
