@@ -426,7 +426,8 @@ this avoids merging conflicts from AOKP manifest
   <project path="device/sony/blue-common" name="KangXperiaProject/android_device_sony_blue-common" remote="kxp" revision="jb" />
   <project path="device/semc/es209ra" name="KangXperiaProject/android_device_semc_es209ra" remote="kxp" revision="jb" />
   <project path="device/sony/mesona" name="KangXperiaProject/android_device_sony_mesona" remote="kxp" revision="jb" />
-  <project path="device/sony/tapioca" name="KangXperiaProject/android_device_sony_tapioca" remote="kxp" revision="jb" />
+  <project path="device/sony/tapioca_ss" name="KangXperiaProject/android_device_sony_tapioca_ss" remote="kxp" revision="jb" />
+  <project path="device/sony/tapioca_ds" name="KangXperiaProject/android_device_sony_tapioca_ds" remote="kxp" revision="jb" />
   <project path="device/sony/jlo" name="KangXperiaProject/android_device_sony_jlo" remote="kxp" revision="jb" />
   <project path="device/sony/tamsui-common" name="KangXperiaProject/android_device_sony_tamsui-common" remote="kxp" revision="jb" />
 
