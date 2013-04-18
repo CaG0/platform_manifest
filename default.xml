@@ -91,12 +91,13 @@
   <project path="device/samsung/smdk4412-common" name="AOKP/device_samsung_smdk4412-common" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/t0lte" name="AOKP/device_samsung_t0lte" remote="aokp" revision="jb-mr1" />
+  <project path="device/samsung/t0lteatt" name="AOKP/device_samsung_t0lteatt" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/t0ltecdma" name="AOKP/device_samsung_t0ltecdma" remote="aokp" revision="jb-mr1" />
+  <project path="device/samsung/t0ltetmo" name="AOKP/device_samsung_t0ltetmo" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/toro" name="AOKP/device_samsung_toro" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/toroplus" name="AOKP/device_samsung_toroplus" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/vibrantmtd" name="AOKP/device_samsung_vibrantmtd" remote="aokp" revision="jb-mr1" />
-  <project path="device/ti/panda" name="device/ti/panda" groups="device" revision="refs/tags/android-4.2.1_r1" />
 -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
@@ -162,6 +163,7 @@
   <project path="external/jack" name="platform/external/jack" />
   <project path="external/javasqlite" name="platform/external/javasqlite" />
   <project path="external/javassist" name="platform/external/javassist" />
+  <project path="external/jbirdvegas/mGerrit" name="AOKP/external_jbirdvegas_mGerrit" remote="aokp" revision="master" />
   <project path="external/jdiff" name="platform/external/jdiff" />
   <project path="external/jhead" name="platform/external/jhead" />
   <project path="external/jmdns" name="platform/external/jmdns" />
@@ -320,7 +322,7 @@
   <project path="packages/apps/Browser" name="AOKP/packages_apps_Browser" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
-  <project path="packages/apps/Camera" name="AOKP/packages_apps_Camera" remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CDMATools" name="AOKP/packages_apps_CDMATools" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
