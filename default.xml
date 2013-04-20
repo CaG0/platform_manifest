@@ -469,6 +469,11 @@ KANG XPERIA PROJECT
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="kxp" revision="cm-10.1" />
   <project path="vendor/kxp" name="KangXperiaProject/vendor_kxp" remote="kxp" revision="jb-mr1" />
 
+<!-- non-AOKP packages (mostly taken from CM) -->
+  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" remote="cm" revision="cm-10.1" />
+
 
 
   <project path="manifest/kxp" name="KangXperiaProject/platform_manifest" remote="kxp" revision="jb-mr1" />
