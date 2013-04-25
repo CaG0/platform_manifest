@@ -7,7 +7,7 @@
 
   <remote  name="aokp"
            fetch="https://github.com/"
-           review="gerrit.sudoservers.com" />
+           review="gerrit.aokp.co" />
            
   <remote  name="kxp"
            fetch="https://github.com/"
@@ -99,6 +99,12 @@
   <project path="device/samsung/tuna" name="AOKP/device_samsung_tuna" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/vibrantmtd" name="AOKP/device_samsung_vibrantmtd" remote="aokp" revision="jb-mr1" />
 -->
+  <project path="device/sony/hayabusa" name="AOKP/device_sony_hayabusa" remote="aokp" revision="jb-mr1" />
+  <project path="device/sony/mint" name="AOKP/device_sony_mint" remote="aokp" revision="jb-mr1" />
+  <project path="device/sony/tsubasa" name="AOKP/device_sony_tsubasa" remote="aokp" revision="jb-mr1" />
+  <project path="device/sony/blue-common" name="AOKP/device_sony_blue-common" remote="aokp" revision="jb-mr1" />
+  <project path="device/sony/qcom-common" name="android_device_sony_qcom-common" remote="cm" revision="cm-10.1" />
+  <project path="device/sony/common" name="AOKP/device_sony_common" remote="aokp" revision="jb-mr1" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -342,6 +348,7 @@
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/PackageInstaller" name="AOKP/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/PermissionsManager" name="AOKP/packages_apps_PermissionsManager" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
@@ -448,25 +455,29 @@ KANG XPERIA PROJECT
   <project path="device/sony/yuga" name="KangXperiaProject/android_device_sony_yuga" remote="kxp" revision="jb-mr1" />
   <project path="device/sony/odin" name="KangXperiaProject/android_device_sony_odin" remote="kxp" revision="jb-mr1" />
   <project path="device/sony/fusion3-common" name="KangXperiaProject/android_device_sony_fusion3-common" remote="kxp" revision="jb-mr1" />
+<!--
   <project path="device/sony/mint" name="KangXperiaProject/android_device_sony_mint" remote="kxp" revision="jb-mr1" />
   <project path="device/sony/hayabusa" name="KangXperiaProject/android_device_sony_hayabusa" remote="kxp" revision="jb-mr1" />
   <project path="device/sony/tsubasa" name="KangXperiaProject/android_device_sony_tsubasa" remote="kxp" revision="jb-mr1" />
   <project path="device/sony/blue-common" name="KangXperiaProject/android_device_sony_blue-common" remote="kxp" revision="jb-mr1" />
+-->
   <project path="device/sony/aoba" name="KangXperiaProject/android_device_sony_aoba" remote="kxp" revision="jb-mr1" />
   <project path="device/sony/nozomi" name="KangXperiaProject/android_device_sony_nozomi" remote="kxp" revision="jb-mr1" />
   <project path="device/sony/hikari" name="KangXperiaProject/android_device_sony_hikari" remote="kxp" revision="jb-mr1" />
   <project path="device/sony/fuji-common" name="KangXperiaProject/android_device_sony_fuji-common" remote="kxp" revision="jb-mr1" />
+<!--
   <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="cm" revision="cm-10.1" />
   <project path="device/sony/common" name="KangXperiaProject/android_device_sony_common" remote="kxp" revision="jb-mr1" />
-
+-->
 
 <!-- kernels -->
   <project path="kernel/sony/apq8064" name="KangXperiaProject/android_kernel_sony_apq8064" remote="kxp" revision="jb-mr1" />
-  <project path="kernel/sony/msm8x60" name="KangXperiaProject/android_kernel_sony_msm8x60" remote="kxp" revision="jb-mr1" />
+<!--  <project path="kernel/sony/msm8x60" name="KangXperiaProject/android_kernel_sony_msm8x60" remote="kxp" revision="jb-mr1" /> -->
 
 <!-- vendor -->
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="kxp" revision="cm-10.1" />
   <project path="vendor/kxp" name="KangXperiaProject/vendor_kxp" remote="kxp" revision="jb-mr1" />
+  <project path="vendor/sony-aokp" name="AOKP/vendor_sony" remote="aokp" revision="jb-mr1" />
 
 <!-- non-AOKP packages (mostly taken from CM) -->
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="cm" revision="cm-10.1" />
